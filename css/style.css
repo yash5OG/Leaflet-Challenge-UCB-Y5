@@ -1,0 +1,63 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100%;
+}
+
+  
+#map {
+  height: 88.88%;
+}
+
+html {
+  height: 100%;
+}
+
+.legend {
+  line-height: 17.69px;
+  color: rgb(67, 167, 0);
+}
+
+.legend i {
+  width: 32px;
+  height: 16px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.69;
+}
+
+.info {
+  padding: 6px 9px;
+  font: 14px/16px 'Courier New', 'Palantino Linotype', sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+
+.bg-dark {
+  background-color: #1a0044;
+}
+
+
+.info h4 {
+  margin: 0 0 5px;
+  color: rgb(189, 78, 78);
+}
+
+.nav-pills .nav-link {
+  border-radius: .25rem;
+  margin-left: 10px;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #af00ce;
+  border-radius: .3rem;
+}
+
