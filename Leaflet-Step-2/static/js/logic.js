@@ -164,7 +164,7 @@ d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/
     var faultlines = new L.LayerGroup()
 
     L.geoJson(data, {
-        color: "orange",
+        color: "purple",
         weight: 2,
     }).addTo(faultlines);
 
